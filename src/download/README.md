@@ -1,3 +1,11 @@
+## Github
+
+> [全平台下载](https://github.com/topabomb/marktext-specialedition/releases)
+
+```
+https://github.com/topabomb/marktext-specialedition/releases
+```
+
 ## 百度网盘
 
 > [全平台下载](https://pan.baidu.com/s/1I-loDdDv7LVR5l6NPk1ahw?pwd=1234)
