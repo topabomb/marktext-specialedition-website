@@ -81,12 +81,12 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/" target="_blank">©VuePr
 
 - 优化剪贴板图片的复制的处理，可以通过多个预置变量来个性化图片的本地存储路径；
   
-  | 变量名                       | 说明                           |
-  | ------------------------- | ---------------------------- |
-  | {filename}                | 不包含扩展名                       |
-  | {fileBasenameNoExtension} | 同filename，用于与vscode变量兼容      |
-  | {fileWorkspaceFolder}     | 当前打开的项目目录，与vscode变量兼容        |
-  | {relativeFileDirname}     | 当前文件相对项目根目录的相对路径，与vscode变量兼容 |
+  | 变量名                         | 说明                           |
+  | --------------------------- | ---------------------------- |
+  | `{filename}`                | 不包含扩展名                       |
+  | `{fileBasenameNoExtension}` | 同filename，用于与vscode变量兼容      |
+  | `{fileWorkspaceFolder}`     | 当前打开的项目目录，与vscode变量兼容        |
+  | `{relativeFileDirname}`     | 当前文件相对项目根目录的相对路径，与vscode变量兼容 |
 
 ## 截图
 
