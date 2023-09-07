@@ -6,14 +6,11 @@
 https://github.com/topabomb/marktext-specialedition/releases
 ```
 
-## 百度网盘
-
-> [全平台下载](https://pan.baidu.com/s/1I-loDdDv7LVR5l6NPk1ahw?pwd=1234)
-
+### 天翼网盘
+> [全平台下载](https://cloud.189.cn/web/share?code=Z7Nrm2AZJVn2)
 ```
-链接: https://pan.baidu.com/s/1I-loDdDv7LVR5l6NPk1ahw?pwd=1234 提取码: 1234 复制这段内容后打开百度网盘手机App，操作更方便哦
+https://cloud.189.cn/web/share?code=Z7Nrm2AZJVn2（访问码：uw8s）
 ```
-
 ## Google Drive
 
 > [全平台下载](https://drive.google.com/drive/folders/1hy8xA62PJkAs8YzBIGZ2PVs0qVJdkn6n?usp=sharing)
@@ -21,5 +18,3 @@ https://github.com/topabomb/marktext-specialedition/releases
 ```
 https://drive.google.com/drive/folders/1hy8xA62PJkAs8YzBIGZ2PVs0qVJdkn6n?usp=sharing
 ```
-
-
