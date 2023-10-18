@@ -3,7 +3,7 @@ home: true
 icon: home
 title: 首页
 heroImage: /logo.svg
-heroText: MarkText中文特别版
+heroText: MarkText中文特别版/汉化版
 tagline: 全面中文化的MarkText特别版，针对Ebook与本地笔记增加了一些实用化的功能；
 actions:
   - text: 指南 💡
@@ -33,6 +33,10 @@ features:
     icon: diagram
     details: 集成最新版本的Mermaid，支持Mindmap、Timeline等更多图表
     link: https://theme-hope.vuejs.press/zh/guide/feature/comment.html
+  - title: Github开源项目案例
+    icon: github
+    details: OneClickPack、console-craft.js、youtube-musicvideo-downloader、openai-api-forward、wedid_chain、DeBorder AI Toolkit...
+    link: https://github.com/topabomb/
 copyright: false
 footer: 使用 <a href="https://theme-hope.vuejs.press/" target="_blank">©VuePress Theme Hope</a> 构建, 本站版权所有 © 2022-present Topaobmb
 ---
@@ -55,6 +59,15 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/" target="_blank">©VuePr
 1. 自2022-3-8后就没有再更新了，不支持Mermaid 中的 mindmap；
 2. 全局的配置文件，不利于每个不同Ebook项目的个性化配置；
 3. 用于存储图片的相对路径图像文件夹支持的预置变量太少，不能满足复杂结构项目的需求；
+
+## 案例
+- [OneClickPack](https://github.com/topabomb/OneClickPack)
+- [console-craft.js](https://github.com/topabomb/console-craft)
+- [youtube-musicvideo-downloader](https://github.com/topabomb/youtube-musicvideo-downloader)
+- [openai-api-forward](https://github.com/topabomb/openai-api-forward)
+- wedid_chain
+- [DeBorder AI Toolkit](https://deborderai.weero.net/)
+- ...
 
 ## 已实现特色
 

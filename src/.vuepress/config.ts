@@ -8,8 +8,8 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "zh-CN",
-      title: "MarkText中文特别版",
-      description: "全面中文化的MarkText特别版，针对Ebook跟本地笔记增加了一些实用化的功能；",
+      title: "MarkText中文特别版/汉化版",
+      description: "全面中文化的MarkText特别版，针对Ebook跟本地笔记增加了一些实用化的功能；全方位汉化，并提供发行包下载。",
     },
   },
   theme,
