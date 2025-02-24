@@ -14,6 +14,8 @@ actions:
   - text: Github
     icon: github
     link: https://github.com/topabomb/marktext-specialedition
+  - text: 新项目（电池大师/BatteryMaster) 💡
+    link: https://batterymaster.weero.net/
 features:
   - title: MarkText 经典版
     icon: markdown
